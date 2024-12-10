@@ -1,4 +1,3 @@
-```markdown
 # Simple chatbot with Ollama using next.js
 
 This project is a **React-based Chat Application** that uses an AI assistant model for generating responses. It leverages TailwindCSS for styling, `ollama-ai-provider` for AI interactions, and incorporates live streaming of AI-generated text.
@@ -103,7 +102,6 @@ This project is licensed under the MIT License.
 ---
 
 ## 💬 Feedback
-For any questions, feedback, or suggestions, please reach out via [your contact information].
+For any questions, feedback, or suggestions, please reach out via [siddiqodiq.me].
 ```
 
-Sesuaikan konten seperti **repository URL**, **AI model**, dan **contact information** sesuai dengan kebutuhan proyek Anda. Markdown ini sepenuhnya siap untuk digunakan di GitHub atau platform serupa.
