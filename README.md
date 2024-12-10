@@ -90,15 +90,7 @@ Modify `globals.css` for customizing the theme and styles.
 - **Run Production Build**: `npm start`
 
 ---
-
-## 🤝 Contribution
-Feel free to contribute to this project by opening issues or submitting pull requests.
-
----
-
-## 📄 License
-This project is licensed under the MIT License.
-
+![Screenshot (809)](https://github.com/user-attachments/assets/39ab1346-dfe1-4a93-98c7-fac509d9c4f0)
 ---
 
 ## 💬 Feedback
