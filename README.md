@@ -95,4 +95,3 @@ Modify `globals.css` for customizing the theme and styles.
 
 ## 💬 Feedback
 For any questions, feedback, or suggestions, please reach out via https://siddiqodiq.me
-```
