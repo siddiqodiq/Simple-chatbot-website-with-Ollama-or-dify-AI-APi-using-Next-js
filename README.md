@@ -102,6 +102,5 @@ This project is licensed under the MIT License.
 ---
 
 ## 💬 Feedback
-For any questions, feedback, or suggestions, please reach out via [siddiqodiq.me].
+For any questions, feedback, or suggestions, please reach out via https://siddiqodiq.me
 ```
-
