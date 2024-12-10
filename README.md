@@ -1,4 +1,4 @@
-# Chat Application with AI-Powered Assistant
+# Simple chatbot with ollama using next.js
 
 This project is a **React-based Chat Application** that uses an AI assistant model for generating responses. It leverages TailwindCSS for styling, `ollama-ai-provider` for AI interactions, and incorporates live streaming of AI-generated text.
 
@@ -26,8 +26,9 @@ This project is a **React-based Chat Application** that uses an AI assistant mod
 
 Install dependencies:
 
+   ```bash 
+   npm install
 
-npm install
 Add ShadCN components (for UI elements):
 
 npx shadcn@latest add button input card scroll-area
