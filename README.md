@@ -42,6 +42,7 @@ This project is a **React-based Chat Application** that uses an AI assistant mod
 
 5. Access the app at [http://localhost:3000](http://localhost:3000).
 
+*if your chatbot using dify AI API, switch the branch to dify-ai-api
 ---
 
 ## 📂 Project Structure
