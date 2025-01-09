@@ -31,13 +31,13 @@ export default function Home() {
       ]);
 
       let textContent = "";
-      for await (const delta of readStreamableValue(newMessage)) {
-        textContent += delta;
-        setConversation([
-          ...messages,
-          { role: "assistant", content: textContent },
-        ]);
-      }
+for await (const delta of readStreamableValue(newMessage)) {
+  textContent += delta; // Tambahkan delta ke konten sebelumnya
+  setConversation([
+    ...messages,
+    { role: "assistant", content: textContent },
+  ]);
+}
     } catch (error) {
       console.error("Error in conversation:", error);
       setConversation((prev) => [
