@@ -69,7 +69,7 @@ export async function continueConversation(history: Message[]) {
 
               // Jika event adalah "message" dan ada field "answer"
               if (data.event === "message" && data.answer) {
-                // Kirim hanya delta (konten baru) ke frontend
+                // Kirim setiap token ke frontend
                 stream.update(data.answer);
               }
             }
